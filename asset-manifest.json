@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tutorial-react/static/css/main.e04900ba.css",
+    "main.js": "/tutorial-react/static/js/main.3aed640b.js",
+    "index.html": "/tutorial-react/index.html",
+    "main.e04900ba.css.map": "/tutorial-react/static/css/main.e04900ba.css.map",
+    "main.3aed640b.js.map": "/tutorial-react/static/js/main.3aed640b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e04900ba.css",
+    "static/js/main.3aed640b.js"
+  ]
+}
